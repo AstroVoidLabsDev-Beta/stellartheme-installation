@@ -16,7 +16,7 @@ git clone https://github.com/AstroVoidLabsDev-Beta/stellartheme-installation
 cd stellartheme-installation
 
 # 3. Move StellarTheme into your Pterodactyl directory
-mv StellarTheme /var/www/pterodactyl
+unzip StellarTheme.zip -d /var/www/pterodactyl
 
 # 4. Go to the Pterodactyl directory
 cd /var/www/pterodactyl
