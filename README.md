@@ -54,4 +54,4 @@ php artisan view:clear
 ## 🖼️ Theme Preview
 
 
-![Stellar Theme Preview](.https://builtbybit.com/attachments/1743544778858-png.926694/?preset=fullr1)
+![Stellar Theme Preview](https://builtbybit.com/attachments/1743544778858-png.926694/?preset=fullr1)
