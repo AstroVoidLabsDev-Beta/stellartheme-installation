@@ -53,6 +53,5 @@ php artisan view:clear
 
 ## 🖼️ Theme Preview
 
-Add your theme image below (replace with actual image URL or relative path):
 
 ![Stellar Theme Preview](.https://builtbybit.com/attachments/1743544778858-png.926694/?preset=fullr1)
